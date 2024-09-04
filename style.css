@@ -36,6 +36,10 @@
     margin: 0 16px;
 }
 
+.gerente{
+    width: 80px;
+    height: 40;
+}
 .nossa-escola {
     background-image: linear-gradient(#300301, #960903);
     color: white;
