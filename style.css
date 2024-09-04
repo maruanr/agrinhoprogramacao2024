@@ -77,7 +77,6 @@
 .equipe {
     background-color: hsla(27, 95%, 41%, 0.859);
     color: white;
-    padding: 16px;
 }
 
 .professor{
@@ -100,6 +99,7 @@
 .equipe-div-todos {
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
+    padding: 16px;
 }
 
 .rodapé{
