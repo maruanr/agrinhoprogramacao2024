@@ -75,8 +75,9 @@
 }
 
 .equipe {
-    background-color: #cd5f05db;
+    background-color: hsla(27, 95%, 41%, 0.859);
     color: white;
+    padding: 16px;
 }
 
 .professor{
