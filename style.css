@@ -39,6 +39,7 @@
 .gerente{
     width: 120px;
     height: 70;
+    align-items: center;
 }
 .nossa-escola {
     background-image: linear-gradient(#300301, #960903);
